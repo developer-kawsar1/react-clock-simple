@@ -1,0 +1,9 @@
+.App{
+  text-align: center;
+} 
+button{
+  border: none;
+  background-color: antiquewhite;
+  padding: 10px 20px; 
+  font-weight: bold;
+}
